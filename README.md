@@ -3,11 +3,9 @@ blakeplayz19372 {
 
 fav-coding-language: HTML;  
 
-fav-color: blue;  
-
 used-OS: Windows 11 Education;  
 
-b̷̦͍͔̣̘̳̰̤̭̝͎̓̐̈́̍̑͒̈̑́͊̓̀͝͝o̴̢̪͍͍͙͚̯͔̪̺̩͚̝̿͂̃͆́̕b̸̧̛͙̝̖̟̘̬͙͙͉̔̄̊̏̀̕͝͝͝͠ is coming for you;  
+fav-sudo-package: pihole-FTL;
 
 }
-
+Currently, i'm maintaining my game website and working on building my own router using Pi-hole, create_ap, and PiVPN
