@@ -8,4 +8,4 @@ used-OS: Windows 11 Education;
 fav-sudo-package: pihole-FTL;
 
 }
-Currently, i'm maintaining my game website and working on building my own router using Pi-hole, create_ap, and PiVPN
+Currently, i'm working on my SoftEther VPN, specifically optimized for destroying MITM DNS proxies like iBoss.
